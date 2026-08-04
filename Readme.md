@@ -1,4 +1,4 @@
-Hi! My name is Apostolia (Voidlindale). ✨
+Hi! My name is Apostolia Kyritsi.
 
 I am a BSc Physicist from the University of Ioannina. Currently, I am starting my Master's degree at the Department of Physics, University of Ioannina, specializing in Theoretical and Experimental Physics (Theoretical Track). 
 
