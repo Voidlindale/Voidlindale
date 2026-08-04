@@ -6,7 +6,7 @@ My work focuses on researching dynamical dark energy, MCMC simulations, and mapp
 
 **Core Projects** 
 
-* **[Dynamical Dark Energy: Theoretical Models & Constraints](Final%20Thesis%20(oneside).pdf)**: My Bachelor Thesis investigating cosmic acceleration, scalar field dynamics, and joint likelihood MCMC analyses using Pantheon+, DESI 2024 BAO, and Planck data. 
+* **[Dynamical Dark Energy: Theoretical Models & Constraints](Dynamical%20Dark%20Energy.pdf)**: My Bachelor Thesis investigating cosmic acceleration, scalar field dynamics, and joint likelihood MCMC analyses using Pantheon+, DESI 2024 BAO, and Planck data. 
 
 ---
 📫 **Contact:** kyritsiapostolia6@gmail.com
