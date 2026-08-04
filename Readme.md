@@ -1,6 +1,6 @@
-Hi! My name is Apostolia (Voidlindale). ✨
+Hello! My name is Apostolia Kyritsi. 
 
-I am a BSc Physicist from the University of Ioannina. Currently, I am starting my Master's degree at the Department of Physics, University of Ioannina, specializing in Theoretical and Experimental Physics (Theoretical Track). 🎓
+I am a BSc Physicist from the University of Ioannina. Currently, I am starting my Master's degree at the Department of Physics, University of Ioannina, specializing in Theoretical and Experimental Physics (Theoretical Track). 
 
 My work focuses on researching dynamical dark energy, MCMC simulations, and mapping the cosmic void through code (primarily using Python and Mathematica).
 
