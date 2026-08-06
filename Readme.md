@@ -7,8 +7,8 @@ My work focuses on modern cosmology, exploring the evolution of the universe, co
 
 **Projects** 
 
-* **[Dynamical Dark Energy: Theoretical Models & Constraints](Dynamical%20Dark%20Energy.pdf)**: My Bachelor Thesis investigating cosmic acceleration, scalar field dynamics, and joint likelihood MCMC analyses using Pantheon+, DESI 2024 BAO, and Planck data. 
-
+* **[Dynamical Dark Energy: Theoretical Models & Constraints](Dynamical%20Dark%20Energy.pdf)**: My Bachelor Thesis investigating scalar field dynamics and parameter constraints through multi-probe observational data (Pantheon+, DESI 2024 BAO, and Planck).
+* 
 * **[Cosmological MCMC Analysis Code](MCMC.ipynb)**: The Python notebook containing the computational implementation of the joint likelihood MCMC analysis, utilizing emcee to constrain dynamical dark energy models.
 
 
