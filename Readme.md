@@ -8,5 +8,10 @@ My work focuses on researching dynamical dark energy, MCMC simulations, and mapp
 
 * **[Dynamical Dark Energy: Theoretical Models & Constraints](Dynamical%20Dark%20Energy.pdf)**: My Bachelor Thesis investigating cosmic acceleration, scalar field dynamics, and joint likelihood MCMC analyses using Pantheon+, DESI 2024 BAO, and Planck data. 
 
+* **[Cosmological MCMC Analysis Code](MCMC.ipynb)**: The Python notebook containing the computational implementation of the joint likelihood MCMC analysis, utilizing emcee to constrain dynamical dark energy models.
+
+
+
 ---
 📫 **Contact:** kyritsiapostolia6@gmail.com
+ 
